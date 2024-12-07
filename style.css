@@ -1,6 +1,7 @@
 * {
   padding: 0px;
   margin: 0px;
+  text-align: center;
 }
 
 .for-img {
@@ -10,6 +11,11 @@
 }
 .for-img img {
   width: 100%;
+}
+
+h3 {
+  font-size: 40px;
+  color: yellowgreen;
 }
 
 .main1 {
